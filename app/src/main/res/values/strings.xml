@@ -1,7 +1,15 @@
 <resources>
-    <string name="app_name">TeamsToGoAndroid</string>
+    <string name="app_name">TeamsToGo</string>
     <string name="title_activity_login">LoginActivity</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="username">TeamCowboy Username or Email Address</string>
+    <string name="password">TeamCowboy Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password_button">Forgot Password</string>
+    <string name="new_account_button">New Team Cowboy Account</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="httpendpoint">http://api.teamcowboy.com/v1/</string>
+    <string name="httpsendpoint">https://api.teamcowboy.com/v1/</string>
+
+    <string name="resetpassword">https://www.teamcowboy.com/resetPassword</string>
+    <string name="newaccount">https://www.teamcowboy.com/register?redirect=</string>
+    
+</resources>
