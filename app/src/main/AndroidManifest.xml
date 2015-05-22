@@ -1,3 +1,4 @@
+<<<<<<< Original
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.phodiep.teamstogoandroid" >
@@ -20,3 +21,16 @@
     </application>
 
 </manifest>
+
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <application>
+        <activity android:name="com.phodiep.teamstogoandroid.LoginActivity"
+            android:label="@string/title_activity_login"
+            >
+        </activity>
+    </application>
+
+</manifest>
+>>>>>>> Added
